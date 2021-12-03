@@ -1,0 +1,10 @@
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\bin\Debug\WinAnim.exe.config
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\bin\Debug\WinAnim.exe
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\bin\Debug\WinAnim.pdb
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.Form1.resources
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.exe
+F:\3\УП ПМ.01\1 День\WinAnim\WinAnim\obj\Debug\WinAnim.pdb
