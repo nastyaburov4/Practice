@@ -1,0 +1,10 @@
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe.config
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.pdb
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Form1.resources
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Properties.Resources.resources
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.exe
+F:\3\УП ПМ.01\2 День\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.pdb
