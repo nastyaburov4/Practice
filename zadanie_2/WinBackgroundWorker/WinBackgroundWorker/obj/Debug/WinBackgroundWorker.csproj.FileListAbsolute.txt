@@ -1,0 +1,10 @@
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe.config
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.pdb
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Form1.resources
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Properties.Resources.resources
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.exe
+F:\3\УП ПМ.01\2 День\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.pdb
