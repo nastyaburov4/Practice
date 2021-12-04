@@ -1,0 +1,10 @@
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe.config
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.pdb
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.exe
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.pdb
+F:\3\УП ПМ.01\WinForm4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Form1.resources
