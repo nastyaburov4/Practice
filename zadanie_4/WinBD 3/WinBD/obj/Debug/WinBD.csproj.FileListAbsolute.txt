@@ -1,0 +1,32 @@
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\bin\Debug\WinBD.exe.config
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\bin\Debug\WinBD.exe
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\bin\Debug\WinBD.pdb
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.Form1.resources
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.exe
+F:\3\УП ПМ.01\WinForm4\WinBD\WinBD\obj\Debug\WinBD.pdb
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\bin\Debug\WinBD.exe.config
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\bin\Debug\WinBD.exe
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\bin\Debug\WinBD.pdb
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.Form1.resources
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.Form2.resources
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.exe
+F:\3\УП ПМ.01\WinForm4\WinBD 2\WinBD\obj\Debug\WinBD.pdb
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\bin\Debug\WinBD.exe.config
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\bin\Debug\WinBD.exe
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\bin\Debug\WinBD.pdb
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.Form1.resources
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.Form2.resources
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.exe
+F:\3\УП ПМ.01\WinForm4\WinBD 3\WinBD\obj\Debug\WinBD.pdb
