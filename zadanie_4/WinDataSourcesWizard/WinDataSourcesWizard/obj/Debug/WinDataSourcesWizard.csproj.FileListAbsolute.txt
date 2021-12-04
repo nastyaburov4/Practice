@@ -1,0 +1,10 @@
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\WinDataSourcesWizard.exe.config
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\WinDataSourcesWizard.exe
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\WinDataSourcesWizard.pdb
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.exe
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.pdb
+F:\3\УП ПМ.01\WinForm4\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.Form1.resources
